@@ -65,6 +65,7 @@ body{
     gap: 1rem;
     padding: 0;
 }
+
 #to-do-list li{
     list-style-type: none;
     font-size: 1.4rem;
